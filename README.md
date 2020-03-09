@@ -16,7 +16,7 @@
 ...
 配置的git帐户
 git config --global user.name "QiQingShuo"
-git config --global user.email "2681910429@qq.com"
+git config --global user.email "********@qq.com"
 ...
 生成的文件在
 C:\Users\26819\.ssh
