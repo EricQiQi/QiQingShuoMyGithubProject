@@ -35,3 +35,10 @@ GitHub settings----SSH and GPG keys----SSH keys->new SSH key
    
 6.修改后同步文件
 用 'syn.bat'
+
+7.idea中进行git操作
+项目文件夹-->git-->commit directory将要上传的文件选中，然后push
+如果第一次使用idea上传，会遇到push被拒绝，见如下链接解决问题
+https://blog.csdn.net/qq_36522306/article/details/94390588
+不是使用idea操作的文件，仍然使用'syn.bat'同步
+
